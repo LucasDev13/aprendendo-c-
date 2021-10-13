@@ -1,0 +1,15 @@
+﻿using System;
+
+namespace primeiro_projeto_dotnet
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var teste = new Teste();
+            Console.WriteLine("Hello World!");
+            teste.primeiroTeste();
+            Console.ReadLine();
+        }
+    }
+}

@@ -1,0 +1,16 @@
+/home/lucasdev/Documentos/workspace-dotnet/primeiro-projeto-dotnet/bin/Debug/net5.0/primeiro-projeto-dotnet
+/home/lucasdev/Documentos/workspace-dotnet/primeiro-projeto-dotnet/bin/Debug/net5.0/primeiro-projeto-dotnet.deps.json
+/home/lucasdev/Documentos/workspace-dotnet/primeiro-projeto-dotnet/bin/Debug/net5.0/primeiro-projeto-dotnet.runtimeconfig.json
+/home/lucasdev/Documentos/workspace-dotnet/primeiro-projeto-dotnet/bin/Debug/net5.0/primeiro-projeto-dotnet.runtimeconfig.dev.json
+/home/lucasdev/Documentos/workspace-dotnet/primeiro-projeto-dotnet/bin/Debug/net5.0/primeiro-projeto-dotnet.dll
+/home/lucasdev/Documentos/workspace-dotnet/primeiro-projeto-dotnet/bin/Debug/net5.0/ref/primeiro-projeto-dotnet.dll
+/home/lucasdev/Documentos/workspace-dotnet/primeiro-projeto-dotnet/bin/Debug/net5.0/primeiro-projeto-dotnet.pdb
+/home/lucasdev/Documentos/workspace-dotnet/primeiro-projeto-dotnet/obj/Debug/net5.0/primeiro-projeto-dotnet.csproj.AssemblyReference.cache
+/home/lucasdev/Documentos/workspace-dotnet/primeiro-projeto-dotnet/obj/Debug/net5.0/primeiro-projeto-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucasdev/Documentos/workspace-dotnet/primeiro-projeto-dotnet/obj/Debug/net5.0/primeiro-projeto-dotnet.AssemblyInfoInputs.cache
+/home/lucasdev/Documentos/workspace-dotnet/primeiro-projeto-dotnet/obj/Debug/net5.0/primeiro-projeto-dotnet.AssemblyInfo.cs
+/home/lucasdev/Documentos/workspace-dotnet/primeiro-projeto-dotnet/obj/Debug/net5.0/primeiro-projeto-dotnet.csproj.CoreCompileInputs.cache
+/home/lucasdev/Documentos/workspace-dotnet/primeiro-projeto-dotnet/obj/Debug/net5.0/primeiro-projeto-dotnet.dll
+/home/lucasdev/Documentos/workspace-dotnet/primeiro-projeto-dotnet/obj/Debug/net5.0/ref/primeiro-projeto-dotnet.dll
+/home/lucasdev/Documentos/workspace-dotnet/primeiro-projeto-dotnet/obj/Debug/net5.0/primeiro-projeto-dotnet.pdb
+/home/lucasdev/Documentos/workspace-dotnet/primeiro-projeto-dotnet/obj/Debug/net5.0/primeiro-projeto-dotnet.genruntimeconfig.cache
