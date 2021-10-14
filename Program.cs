@@ -13,8 +13,11 @@ namespace primeiro_projeto_dotnet
             //var variaveisInteiras = new VariaveisInteiras();
             //variaveisInteiras.run();
 
-            var variaveisFlutuantes = new VariaveisFlutuantes();
-            variaveisFlutuantes.run();
+            //var variaveisFlutuantes = new VariaveisFlutuantes();
+            //variaveisFlutuantes.run();
+
+            var conversoesEOutrosTiposNumericos =  new ConversoesEOutrosTiposNumericos();
+            conversoesEOutrosTiposNumericos.run();
 
 
 
