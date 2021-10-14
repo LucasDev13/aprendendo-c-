@@ -16,9 +16,11 @@ namespace primeiro_projeto_dotnet
             //var variaveisFlutuantes = new VariaveisFlutuantes();
             //variaveisFlutuantes.run();
 
-            var conversoesEOutrosTiposNumericos =  new ConversoesEOutrosTiposNumericos();
-            conversoesEOutrosTiposNumericos.run();
+            //var conversoesEOutrosTiposNumericos =  new ConversoesEOutrosTiposNumericos();
+            //conversoesEOutrosTiposNumericos.run();
 
+            var caracteresETextos = new CaracteresETextos();
+            caracteresETextos.run();
 
 
             Console.WriteLine("Execução finalizada. Tecle enter para sair!!");
