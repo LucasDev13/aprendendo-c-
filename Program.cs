@@ -25,8 +25,11 @@ namespace primeiro_projeto_dotnet
             //var guardandoValoresEmVariaveis = new GuardandoValoresEmVariaveis();
             //guardandoValoresEmVariaveis.run();
 
-            var condicionais = new Condicionais();
-            condicionais.run();
+            //var condicionais = new Condicionais();
+            //condicionais.run();
+
+            var condicionais2 = new Condicionais2();
+            condicionais2.run();
 
             Console.WriteLine("Execução finalizada. Tecle enter para sair!!");
         }
