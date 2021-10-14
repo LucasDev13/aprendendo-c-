@@ -22,9 +22,11 @@ namespace primeiro_projeto_dotnet
             //var caracteresETextos = new CaracteresETextos();
             //caracteresETextos.run();
 
-            var guardandoValoresEmVariaveis = new GuardandoValoresEmVariaveis();
-            guardandoValoresEmVariaveis.run();
+            //var guardandoValoresEmVariaveis = new GuardandoValoresEmVariaveis();
+            //guardandoValoresEmVariaveis.run();
 
+            var condicionais = new Condicionais();
+            condicionais.run();
 
             Console.WriteLine("Execução finalizada. Tecle enter para sair!!");
         }
