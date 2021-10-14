@@ -28,8 +28,11 @@ namespace primeiro_projeto_dotnet
             //var condicionais = new Condicionais();
             //condicionais.run();
 
-            var condicionais2 = new Condicionais2();
-            condicionais2.run();
+            //var condicionais2 = new Condicionais2();
+            //condicionais2.run();
+
+            var escopos = new Escopos();
+            escopos.run();
 
             Console.WriteLine("Execução finalizada. Tecle enter para sair!!");
         }
