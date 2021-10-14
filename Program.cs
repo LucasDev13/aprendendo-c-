@@ -40,8 +40,11 @@ namespace primeiro_projeto_dotnet
             //var calculaPoupanca2 = new CalculaPoupanca2();
             //calculaPoupanca2.run();
 
-            var calculaInvestimentoLongoPrazo = new CalculaInvestimentoLongoPrazo();
-            calculaInvestimentoLongoPrazo.run();
+            //var calculaInvestimentoLongoPrazo = new CalculaInvestimentoLongoPrazo();
+            //calculaInvestimentoLongoPrazo.run();
+
+            var forEncadeado = new ForEncadeado();
+            forEncadeado.run();
 
             Console.WriteLine("Execução finalizada. Tecle enter para sair!!");
         }
