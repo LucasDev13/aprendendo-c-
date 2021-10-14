@@ -34,8 +34,11 @@ namespace primeiro_projeto_dotnet
             //var escopos = new Escopos();
             //escopos.run();
 
-            var calculaPoupanca = new CalculaPoupanca();
-            calculaPoupanca.run();
+            //var calculaPoupanca = new CalculaPoupanca();
+            //calculaPoupanca.run();
+
+            var calculaPoupanca2 = new CalculaPoupanca2();
+            calculaPoupanca2.run();
 
             Console.WriteLine("Execução finalizada. Tecle enter para sair!!");
         }
