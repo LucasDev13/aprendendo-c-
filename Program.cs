@@ -19,8 +19,11 @@ namespace primeiro_projeto_dotnet
             //var conversoesEOutrosTiposNumericos =  new ConversoesEOutrosTiposNumericos();
             //conversoesEOutrosTiposNumericos.run();
 
-            var caracteresETextos = new CaracteresETextos();
-            caracteresETextos.run();
+            //var caracteresETextos = new CaracteresETextos();
+            //caracteresETextos.run();
+
+            var guardandoValoresEmVariaveis = new GuardandoValoresEmVariaveis();
+            guardandoValoresEmVariaveis.run();
 
 
             Console.WriteLine("Execução finalizada. Tecle enter para sair!!");
