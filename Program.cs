@@ -31,8 +31,11 @@ namespace primeiro_projeto_dotnet
             //var condicionais2 = new Condicionais2();
             //condicionais2.run();
 
-            var escopos = new Escopos();
-            escopos.run();
+            //var escopos = new Escopos();
+            //escopos.run();
+
+            var calculaPoupanca = new CalculaPoupanca();
+            calculaPoupanca.run();
 
             Console.WriteLine("Execução finalizada. Tecle enter para sair!!");
         }
